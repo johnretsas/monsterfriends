@@ -2,6 +2,8 @@ Card gallery with SearchBar implemented - React.js
 
 Credits to the great course on Udemy from Andrei Neagoie.
 
+State Management using Redux
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
